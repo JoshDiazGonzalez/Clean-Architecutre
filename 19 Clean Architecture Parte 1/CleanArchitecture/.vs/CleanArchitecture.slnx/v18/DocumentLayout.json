@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E27C4A3D-B610-4A6F-A0E3-A5D826A9BA63}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\usuario itc\\documents\\.net2026\\clean architecture .net\\19 clean architecture parte 1\\cleanarchitecture\\cleanarchitecture.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E27C4A3D-B610-4A6F-A0E3-A5D826A9BA63}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{859E66CE-3F6B-4DBF-71E2-86DA5080080B}|CleanArchitecture.Data\\CleanArchitecture.Data.csproj|c:\\users\\usuario itc\\documents\\.net2026\\clean architecture .net\\19 clean architecture parte 1\\cleanarchitecture\\cleanarchitecture.data\\streamerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859E66CE-3F6B-4DBF-71E2-86DA5080080B}|CleanArchitecture.Data\\CleanArchitecture.Data.csproj|solutionrelative:cleanarchitecture.data\\streamerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C71BFDE-7827-45CB-A44E-4D64301156D5}|CleanArchitecture.Data\\CleanArchitecture.Data.csproj|c:\\users\\usuario itc\\documents\\.net2026\\clean architecture .net\\19 clean architecture parte 1\\cleanarchitecture\\cleanarchitecture.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C71BFDE-7827-45CB-A44E-4D64301156D5}|CleanArchitecture.Data\\CleanArchitecture.Data.csproj|solutionrelative:cleanarchitecture.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E195128-AACB-45E0-A9D2-5CA4B8B373C7}|CleanArchitecture.ConsoleApp\\CleanArchitecture.ConsoleApp.csproj|c:\\users\\usuario itc\\documents\\.net2026\\clean architecture .net\\19 clean architecture parte 1\\cleanarchitecture\\cleanarchitecture.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E195128-AACB-45E0-A9D2-5CA4B8B373C7}|CleanArchitecture.ConsoleApp\\CleanArchitecture.ConsoleApp.csproj|solutionrelative:cleanarchitecture.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{204E327D-A433-4D90-1A24-9E41BC2DCD92}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|c:\\users\\usuario itc\\documents\\.net2026\\clean architecture .net\\19 clean architecture parte 1\\cleanarchitecture\\cleanarchitecture.domain\\streamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{204E327D-A433-4D90-1A24-9E41BC2DCD92}|CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj|solutionrelative:cleanarchitecture.domain\\streamer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,41 +26,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Class1.cs",
-              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.Domain\\Class1.cs",
-              "RelativeToolTip": "CleanArchitecture.Domain\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-04T03:21:30.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.Data\\Class1.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Data\\Class1.cs",
-              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.Data\\Class1.cs",
-              "RelativeToolTip": "CleanArchitecture.Data\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Streamer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.Domain\\Streamer.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Domain\\Streamer.cs",
+              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.Domain\\Streamer.cs",
+              "RelativeToolTip": "CleanArchitecture.Domain\\Streamer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-04T03:20:27.381Z",
+              "WhenOpened": "2026-09-05T01:43:06.797Z",
               "EditorCaption": ""
-            },
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.ConsoleApp\\Program.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.ConsoleApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.ConsoleApp\\Program.cs",
-              "RelativeToolTip": "CleanArchitecture.ConsoleApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "StreamerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.Data\\StreamerDbContext.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Data\\StreamerDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.Data\\StreamerDbContext.cs",
+              "RelativeToolTip": "CleanArchitecture.Data\\StreamerDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-04T03:18:49.172Z",
+              "WhenOpened": "2026-09-05T01:42:57.7Z",
               "EditorCaption": ""
             }
           ]
