@@ -1,0 +1,290 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\usuario itc\\documents\\.net2026\\clean architecture .net\\19 clean architecture parte 1\\cleanarchitecture\\cleanarchitecture.application\\models\\identity\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\models\\identity\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\usuario itc\\documents\\.net2026\\clean architecture .net\\19 clean architecture parte 1\\cleanarchitecture\\cleanarchitecture.application\\models\\identity\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\models\\identity\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\usuario itc\\documents\\.net2026\\clean architecture .net\\19 clean architecture parte 1\\cleanarchitecture\\cleanarchitecture.application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\usuario itc\\documents\\.net2026\\clean architecture .net\\19 clean architecture parte 1\\cleanarchitecture\\cleanarchitecture.application\\behaviours\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\behaviours\\validationbehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\usuario itc\\documents\\.net2026\\clean architecture .net\\19 clean architecture parte 1\\cleanarchitecture\\cleanarchitecture.application\\contracts\\persistence\\istreamerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\contracts\\persistence\\istreamerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\usuario itc\\documents\\.net2026\\clean architecture .net\\19 clean architecture parte 1\\cleanarchitecture\\cleanarchitecture.application\\features\\streamers\\commands\\createstreamer\\createstreamercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\streamers\\commands\\createstreamer\\createstreamercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\usuario itc\\documents\\.net2026\\clean architecture .net\\19 clean architecture parte 1\\cleanarchitecture\\cleanarchitecture.application\\features\\videos\\queries\\getvideoslist\\getvideoslistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\features\\videos\\queries\\getvideoslist\\getvideoslistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\usuario itc\\documents\\.net2026\\clean architecture .net\\19 clean architecture parte 1\\cleanarchitecture\\cleanarchitecture.application\\contracts\\persistence\\ivideorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\contracts\\persistence\\ivideorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\usuario itc\\documents\\.net2026\\clean architecture .net\\19 clean architecture parte 1\\cleanarchitecture\\cleanarchitecture.application\\contracts\\persistence\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\contracts\\persistence\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|CleanArchitecture.API\\CleanArchitecture.API.csproj|c:\\users\\usuario itc\\documents\\.net2026\\clean architecture .net\\19 clean architecture parte 1\\cleanarchitecture\\cleanarchitecture.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|CleanArchitecture.API\\CleanArchitecture.API.csproj|solutionrelative:cleanarchitecture.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\usuario itc\\documents\\.net2026\\clean architecture .net\\19 clean architecture parte 1\\cleanarchitecture\\cleanarchitecture.application\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|CleanArchitecture.API\\CleanArchitecture.API.csproj|c:\\users\\usuario itc\\documents\\.net2026\\clean architecture .net\\19 clean architecture parte 1\\cleanarchitecture\\cleanarchitecture.api\\errors\\codeerrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|CleanArchitecture.API\\CleanArchitecture.API.csproj|solutionrelative:cleanarchitecture.api\\errors\\codeerrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\usuario itc\\documents\\.net2026\\clean architecture .net\\19 clean architecture parte 1\\cleanarchitecture\\cleanarchitecture.application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\usuario itc\\documents\\.net2026\\clean architecture .net\\19 clean architecture parte 1\\cleanarchitecture\\cleanarchitecture.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B7965F2-47FA-4A5E-85E7-C7E2A0007139}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|CleanArchitecture.API\\CleanArchitecture.API.csproj|c:\\users\\usuario itc\\documents\\.net2026\\clean architecture .net\\19 clean architecture parte 1\\cleanarchitecture\\cleanarchitecture.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|CleanArchitecture.API\\CleanArchitecture.API.csproj|solutionrelative:cleanarchitecture.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|CleanArchitecture.API\\CleanArchitecture.API.csproj|c:\\users\\usuario itc\\documents\\.net2026\\clean architecture .net\\19 clean architecture parte 1\\cleanarchitecture\\cleanarchitecture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB6C3D1-1977-4A36-848E-7BDC4F598DDC}|CleanArchitecture.API\\CleanArchitecture.API.csproj|solutionrelative:cleanarchitecture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 201,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.Application\\Models\\Identity\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Models\\Identity\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.Application\\Models\\Identity\\AuthResponse.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Models\\Identity\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T01:28:34.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.Application\\Models\\Identity\\AuthRequest.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Models\\Identity\\AuthRequest.cs",
+              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.Application\\Models\\Identity\\AuthRequest.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Models\\Identity\\AuthRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-20T01:28:30.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.Application\\ApplicationServiceRegistration.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\ApplicationServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.Application\\ApplicationServiceRegistration.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\ApplicationServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T21:33:54.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValidationBehaviour.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.Application\\Behaviours\\ValidationBehaviour.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Behaviours\\ValidationBehaviour.cs",
+              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.Application\\Behaviours\\ValidationBehaviour.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Behaviours\\ValidationBehaviour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T21:27:05.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStreamerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.Application\\Contracts\\Persistence\\IStreamerRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Contracts\\Persistence\\IStreamerRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.Application\\Contracts\\Persistence\\IStreamerRepository.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Contracts\\Persistence\\IStreamerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T20:59:01.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateStreamerCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.Application\\Features\\Streamers\\Commands\\CreateStreamer\\CreateStreamerCommand.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\Streamers\\Commands\\CreateStreamer\\CreateStreamerCommand.cs",
+              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.Application\\Features\\Streamers\\Commands\\CreateStreamer\\CreateStreamerCommand.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\Streamers\\Commands\\CreateStreamer\\CreateStreamerCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T20:57:07.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetVideosListQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.Application\\Features\\Videos\\Queries\\GetVideosList\\GetVideosListQuery.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Features\\Videos\\Queries\\GetVideosList\\GetVideosListQuery.cs",
+              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.Application\\Features\\Videos\\Queries\\GetVideosList\\GetVideosListQuery.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Features\\Videos\\Queries\\GetVideosList\\GetVideosListQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T20:56:24.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IVideoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.Application\\Contracts\\Persistence\\IVideoRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Contracts\\Persistence\\IVideoRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.Application\\Contracts\\Persistence\\IVideoRepository.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Contracts\\Persistence\\IVideoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T20:49:35.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAsyncRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.Application\\Contracts\\Persistence\\IAsyncRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Contracts\\Persistence\\IAsyncRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.Application\\Contracts\\Persistence\\IAsyncRepository.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Contracts\\Persistence\\IAsyncRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T20:46:21.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.Application\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.Application\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T16:12:24.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.API\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "CleanArchitecture.API\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T16:12:24.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.Application\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Exceptions\\ValidationException.cs",
+              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.Application\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Exceptions\\ValidationException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T16:12:24.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CodeErrorResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.API\\Errors\\CodeErrorResponse.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.API\\Errors\\CodeErrorResponse.cs",
+              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.API\\Errors\\CodeErrorResponse.cs",
+              "RelativeToolTip": "CleanArchitecture.API\\Errors\\CodeErrorResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T16:12:24.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T16:12:24.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CleanArchitecture.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.API\\appsettings.json",
+              "RelativeToolTip": "CleanArchitecture.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-19T16:12:24.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.API\\Program.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario iTC\\Documents\\.NET2026\\Clean Architecture .NET\\19 Clean Architecture Parte 1\\CleanArchitecture\\CleanArchitecture.API\\Program.cs",
+              "RelativeToolTip": "CleanArchitecture.API\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAABRwB4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-19T16:12:24.32Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Infrastructure.deps.json
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Infrastructure.runtimeconfig.json
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Infrastructure.dll
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\ref\CleanArchitecture.Infrastructure.dll
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Infrastructure.pdb
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Application.dll
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Domain.dll
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Application.pdb
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.csproj.AssemblyReference.cache
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.AssemblyInfo.cs
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.csproj.CopyComplete
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.dll
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\ref\CleanArchitecture.Infrastructure.dll
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.pdb
+C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.genruntimeconfig.cache
+C:\Users\Usuario iTC\Documents\.NET2026\Clean Architecture .NET\19 Clean Architecture Parte 1\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Infrastructure.deps.json
+C:\Users\Usuario iTC\Documents\.NET2026\Clean Architecture .NET\19 Clean Architecture Parte 1\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Infrastructure.runtimeconfig.json
+C:\Users\Usuario iTC\Documents\.NET2026\Clean Architecture .NET\19 Clean Architecture Parte 1\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Infrastructure.dll
+C:\Users\Usuario iTC\Documents\.NET2026\Clean Architecture .NET\19 Clean Architecture Parte 1\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Infrastructure.pdb
+C:\Users\Usuario iTC\Documents\.NET2026\Clean Architecture .NET\19 Clean Architecture Parte 1\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Application.dll
+C:\Users\Usuario iTC\Documents\.NET2026\Clean Architecture .NET\19 Clean Architecture Parte 1\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Domain.dll
+C:\Users\Usuario iTC\Documents\.NET2026\Clean Architecture .NET\19 Clean Architecture Parte 1\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Application.pdb
+C:\Users\Usuario iTC\Documents\.NET2026\Clean Architecture .NET\19 Clean Architecture Parte 1\CleanArchitecture\CleanArchitecture.Data\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
+C:\Users\Usuario iTC\Documents\.NET2026\Clean Architecture .NET\19 Clean Architecture Parte 1\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Usuario iTC\Documents\.NET2026\Clean Architecture .NET\19 Clean Architecture Parte 1\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario iTC\Documents\.NET2026\Clean Architecture .NET\19 Clean Architecture Parte 1\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Usuario iTC\Documents\.NET2026\Clean Architecture .NET\19 Clean Architecture Parte 1\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.AssemblyInfo.cs
+C:\Users\Usuario iTC\Documents\.NET2026\Clean Architecture .NET\19 Clean Architecture Parte 1\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\.NET2026\Clean Architecture .NET\19 Clean Architecture Parte 1\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.sourcelink.json
+C:\Users\Usuario iTC\Documents\.NET2026\Clean Architecture .NET\19 Clean Architecture Parte 1\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArc.38F44B56.Up2Date
+C:\Users\Usuario iTC\Documents\.NET2026\Clean Architecture .NET\19 Clean Architecture Parte 1\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.dll
+C:\Users\Usuario iTC\Documents\.NET2026\Clean Architecture .NET\19 Clean Architecture Parte 1\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\refint\CleanArchitecture.Infrastructure.dll
+C:\Users\Usuario iTC\Documents\.NET2026\Clean Architecture .NET\19 Clean Architecture Parte 1\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.pdb
+C:\Users\Usuario iTC\Documents\.NET2026\Clean Architecture .NET\19 Clean Architecture Parte 1\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\CleanArchitecture.Infrastructure.genruntimeconfig.cache
+C:\Users\Usuario iTC\Documents\.NET2026\Clean Architecture .NET\19 Clean Architecture Parte 1\CleanArchitecture\CleanArchitecture.Data\obj\Debug\net6.0\ref\CleanArchitecture.Infrastructure.dll

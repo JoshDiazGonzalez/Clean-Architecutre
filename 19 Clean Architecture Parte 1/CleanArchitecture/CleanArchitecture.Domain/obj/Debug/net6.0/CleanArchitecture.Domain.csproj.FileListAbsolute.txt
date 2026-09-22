@@ -9,4 +9,16 @@ C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net6.0
 C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.dll
 C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net6.0\ref\CleanArchitecture.Domain.dll
 C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.pdb
-C:\CleanArchitecture\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.csproj.AssemblyReference.cache
+C:\Users\Usuario iTC\Documents\.NET2026\Clean Architecture .NET\19 Clean Architecture Parte 1\CleanArchitecture\CleanArchitecture.Domain\bin\Debug\net6.0\CleanArchitecture.Domain.deps.json
+C:\Users\Usuario iTC\Documents\.NET2026\Clean Architecture .NET\19 Clean Architecture Parte 1\CleanArchitecture\CleanArchitecture.Domain\bin\Debug\net6.0\CleanArchitecture.Domain.dll
+C:\Users\Usuario iTC\Documents\.NET2026\Clean Architecture .NET\19 Clean Architecture Parte 1\CleanArchitecture\CleanArchitecture.Domain\bin\Debug\net6.0\CleanArchitecture.Domain.pdb
+C:\Users\Usuario iTC\Documents\.NET2026\Clean Architecture .NET\19 Clean Architecture Parte 1\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario iTC\Documents\.NET2026\Clean Architecture .NET\19 Clean Architecture Parte 1\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario iTC\Documents\.NET2026\Clean Architecture .NET\19 Clean Architecture Parte 1\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.AssemblyInfo.cs
+C:\Users\Usuario iTC\Documents\.NET2026\Clean Architecture .NET\19 Clean Architecture Parte 1\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario iTC\Documents\.NET2026\Clean Architecture .NET\19 Clean Architecture Parte 1\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.sourcelink.json
+C:\Users\Usuario iTC\Documents\.NET2026\Clean Architecture .NET\19 Clean Architecture Parte 1\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.dll
+C:\Users\Usuario iTC\Documents\.NET2026\Clean Architecture .NET\19 Clean Architecture Parte 1\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net6.0\refint\CleanArchitecture.Domain.dll
+C:\Users\Usuario iTC\Documents\.NET2026\Clean Architecture .NET\19 Clean Architecture Parte 1\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArchitecture.Domain.pdb
+C:\Users\Usuario iTC\Documents\.NET2026\Clean Architecture .NET\19 Clean Architecture Parte 1\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net6.0\ref\CleanArchitecture.Domain.dll
+C:\Users\Usuario iTC\Documents\.NET2026\Clean Architecture .NET\19 Clean Architecture Parte 1\CleanArchitecture\CleanArchitecture.Domain\obj\Debug\net6.0\CleanArc.3F3AF34B.Up2Date

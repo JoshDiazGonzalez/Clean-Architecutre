@@ -1,5 +1,0 @@
-<Solution>
-  <Project Path="CleanArchitecture.ConsoleApp/CleanArchitecture.ConsoleApp.csproj" />
-  <Project Path="CleanArchitecture.Data/CleanArchitecture.Data.csproj" />
-  <Project Path="CleanArchitecture.Domain/CleanArchitecture.Domain.csproj" />
-</Solution>

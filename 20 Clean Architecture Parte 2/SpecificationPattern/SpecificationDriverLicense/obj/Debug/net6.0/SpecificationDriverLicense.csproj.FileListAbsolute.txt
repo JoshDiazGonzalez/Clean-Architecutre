@@ -1,0 +1,16 @@
+C:\SpecificationPattern\SpecificationPattern\SpecificationDriverLicense\bin\Debug\net6.0\SpecificationDriverLicense.exe
+C:\SpecificationPattern\SpecificationPattern\SpecificationDriverLicense\bin\Debug\net6.0\SpecificationDriverLicense.deps.json
+C:\SpecificationPattern\SpecificationPattern\SpecificationDriverLicense\bin\Debug\net6.0\SpecificationDriverLicense.runtimeconfig.json
+C:\SpecificationPattern\SpecificationPattern\SpecificationDriverLicense\bin\Debug\net6.0\SpecificationDriverLicense.dll
+C:\SpecificationPattern\SpecificationPattern\SpecificationDriverLicense\bin\Debug\net6.0\SpecificationDriverLicense.pdb
+C:\SpecificationPattern\SpecificationPattern\SpecificationDriverLicense\obj\Debug\net6.0\SpecificationDriverLicense.csproj.AssemblyReference.cache
+C:\SpecificationPattern\SpecificationPattern\SpecificationDriverLicense\obj\Debug\net6.0\SpecificationDriverLicense.GeneratedMSBuildEditorConfig.editorconfig
+C:\SpecificationPattern\SpecificationPattern\SpecificationDriverLicense\obj\Debug\net6.0\SpecificationDriverLicense.AssemblyInfoInputs.cache
+C:\SpecificationPattern\SpecificationPattern\SpecificationDriverLicense\obj\Debug\net6.0\SpecificationDriverLicense.AssemblyInfo.cs
+C:\SpecificationPattern\SpecificationPattern\SpecificationDriverLicense\obj\Debug\net6.0\SpecificationDriverLicense.csproj.CoreCompileInputs.cache
+C:\SpecificationPattern\SpecificationPattern\SpecificationDriverLicense\obj\Debug\net6.0\SpecificationDriverLicense.dll
+C:\SpecificationPattern\SpecificationPattern\SpecificationDriverLicense\obj\Debug\net6.0\refint\SpecificationDriverLicense.dll
+C:\SpecificationPattern\SpecificationPattern\SpecificationDriverLicense\obj\Debug\net6.0\SpecificationDriverLicense.pdb
+C:\SpecificationPattern\SpecificationPattern\SpecificationDriverLicense\obj\Debug\net6.0\SpecificationDriverLicense.genruntimeconfig.cache
+C:\SpecificationPattern\SpecificationPattern\SpecificationDriverLicense\obj\Debug\net6.0\ref\SpecificationDriverLicense.dll
+C:\SpecificationPattern\SpecificationPattern\SpecificationDriverLicense\bin\Debug\net6.0\person.json
