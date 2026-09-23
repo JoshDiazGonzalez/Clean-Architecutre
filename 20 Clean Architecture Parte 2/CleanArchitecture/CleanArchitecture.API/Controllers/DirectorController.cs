@@ -1,4 +1,7 @@
 ﻿using CleanArchitecture.Application.Features.Directors.Commands.CreateDirector;
+using CleanArchitecture.Application.Features.Directors.Queries.PaginationDirector;
+using CleanArchitecture.Application.Features.Directors.Queries.Vms;
+using CleanArchitecture.Application.Features.Shared.Queries;
 using MediatR;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
@@ -16,6 +19,16 @@ namespace CleanArchitecture.API.Controllers
         {
             _mediator = mediator;
         }
+
+        [HttpGet("pagination", Name ="PaginationDirector")]
+        [ProducesResponseType(typeof(PaginationVm<DirectorVm>),  (int)HttpStatusCode.OK)]
+        public async Task<ActionResult<PaginationVm<DirectorVm>>> GetPaginationDirector(
+            [FromQuery] PaginationDirectorsQuery paginationDirectorQuery)
+        {
+            var paginationDirector = await _mediator.Send(paginationDirectorQuery);
+            return Ok(paginationDirector);
+        }
+
 
         [HttpPost(Name = "CreateDirector")]
         //[Authorize(Roles = "Administrator")]

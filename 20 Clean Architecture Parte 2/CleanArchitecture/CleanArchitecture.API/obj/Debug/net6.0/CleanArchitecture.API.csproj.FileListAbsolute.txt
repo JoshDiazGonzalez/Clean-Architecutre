@@ -155,7 +155,6 @@ C:\NET6\CleanArchitecture\CleanArchitecture.API\obj\Debug\net6.0\CleanArchitectu
 C:\NET6\CleanArchitecture\CleanArchitecture.API\obj\Debug\net6.0\CleanArchitecture.API.AssemblyInfoInputs.cache
 C:\NET6\CleanArchitecture\CleanArchitecture.API\obj\Debug\net6.0\CleanArchitecture.API.AssemblyInfo.cs
 C:\NET6\CleanArchitecture\CleanArchitecture.API\obj\Debug\net6.0\CleanArchitecture.API.csproj.CoreCompileInputs.cache
-C:\NET6\CleanArchitecture\CleanArchitecture.API\obj\Debug\net6.0\CleanArchitecture.API.MvcApplicationPartsAssemblyInfo.cs
 C:\NET6\CleanArchitecture\CleanArchitecture.API\obj\Debug\net6.0\CleanArchitecture.API.MvcApplicationPartsAssemblyInfo.cache
 C:\NET6\CleanArchitecture\CleanArchitecture.API\obj\Debug\net6.0\staticwebassets.build.json
 C:\NET6\CleanArchitecture\CleanArchitecture.API\obj\Debug\net6.0\staticwebassets.development.json
